@@ -20,17 +20,22 @@ CoreOS systems are all about running containers at scale with
 [Typhoon](https://typhoon.psdn.io)) or on a single server with
 [podman](https://podman.io).
 
-## Fedora Silverblue
+## Fedora Kinoite (Fedora Silverblue variant)
 
-[Fedora Silverblue](https://silverblue.fedoraproject.org) is a container
-focused desktop operating system based on
+Fedora Kinoite is a container focused desktop operating system featuring the
+[KDE Plasma desktop](https://kde.org) and based on
 [rpm-ostree](https://rpm-ostree.readthedocs.io), [podman](https://podman.io)
-and [Flatpak](https://flatpak.org).
+and [Flatpak](https://flatpak.org). Fedora Kinoite is a variant of
+[Fedora Silverblue](https://silverblue.fedoraproject.org).
 
-I maintain an unofficial project nicknamed
-[Kinoite](https://discussion.fedoraproject.org/t/kinoite-a-kde-and-now-xfce-version-of-fedora-silverblue/147)
-that provide variants based on the KDE, XFCE, LXQt, Deepin, Mate and Pantheon
-desktop environments.
+Fedora Kinoite will has been
+[accepted as a change for the Fedora 35 release](https://fedoraproject.org/wiki/Changes/Fedora_Kinoite)
+and will be included soon in Rawhide. In the meantime, I maintain unofficial
+builds for Fedora Kinoite and other variants (XFCE, LXQt, Deepin, Mate and
+Pantheon). See
+[this Fedora Magazine article](https://fedoramagazine.org/discover-fedora-kinoite/) and
+[this Fedora Discussion thread](https://discussion.fedoraproject.org/t/kinoite-a-kde-and-now-xfce-version-of-fedora-silverblue/147)
+for details.
 
 ## Flatpaks
 
