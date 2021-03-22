@@ -28,7 +28,7 @@ Fedora Kinoite is a container focused desktop operating system featuring the
 and [Flatpak](https://flatpak.org). Fedora Kinoite is a variant of
 [Fedora Silverblue](https://silverblue.fedoraproject.org).
 
-Fedora Kinoite will has been
+Fedora Kinoite has been
 [accepted as a change for the Fedora 35 release](https://fedoraproject.org/wiki/Changes/Fedora_Kinoite)
 and will be included soon in Rawhide. In the meantime, I maintain unofficial
 builds for Fedora Kinoite and other variants (XFCE, LXQt, Deepin, Mate and
