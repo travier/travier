@@ -24,7 +24,7 @@ CoreOS systems are all about running containers at scale with
 
 Fedora Kinoite is a container focused desktop operating system featuring the
 [KDE Plasma desktop](https://kde.org) and based on
-[rpm-ostree](https://rpm-ostree.readthedocs.io), [podman](https://podman.io)
+[rpm-ostree](https://coreos.github.io/rpm-ostree/), [podman](https://podman.io)
 and [Flatpak](https://flatpak.org). Fedora Kinoite is a variant of
 [Fedora Silverblue](https://silverblue.fedoraproject.org).
 
