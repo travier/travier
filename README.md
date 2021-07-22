@@ -7,8 +7,8 @@ programming languages 🦀 and container focused operating systems 📦.
 
 ## CoreOS engineering
 
-I am currently a member of the CoreOS team at Red Hat, working on Fedora CoreOS
-and Red Hat CoreOS.
+I am currently a member of the CoreOS team at [Red Hat][RH], working on [Fedora
+CoreOS][FCOS] and [Red Hat CoreOS][RHCOS].
 
 CoreOS systems are all about running containers at scale with [Kubernetes]
 distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
@@ -57,6 +57,9 @@ many [KDE applications][Apps] as possible in Flatpaks for [Flathub] and Fedora
 [GitHub]: https://github.com/travier
 [GitLab]: https://gitlab.com/Siosm
 [StackExchange]: https://stackexchange.com/users/2619545/siosm
+[RH]: https://www.redhat.com
+[FCOS]: https://getfedora.org/en/coreos
+[RHCOS]: https://docs.openshift.com/container-platform/4.7/architecture/architecture-rhcos.html
 [Kubernetes]: https://kubernetes.io
 [OpenShift]: https://www.openshift.com
 [OKD]: https://www.okd.io
