@@ -8,11 +8,20 @@ programming languages 🦀 and container focused operating systems 📦.
 ## CoreOS engineering
 
 I am currently a member of the CoreOS team at Red Hat, working on Fedora CoreOS
-and Red Hat CoreOS (see my [GitHub profile][GitHub]).
+and Red Hat CoreOS.
 
 CoreOS systems are all about running containers at scale with [Kubernetes]
 distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
 [podman].
+
+### Talks
+
+- Fedora CoreOS, a container focused OS to securely deploy and run
+  applications, Pass the SALT 2021 ([video & slides][PtS2021])
+- Fedora CoreOS or Fedora IoT? Containers Plumbing Days 2021 ([video][CPD2021v]
+  & [slides][CPD2021s])
+- Let's Talk About Fedora CoreOS, OpenShift TV ([video][OSTVv] &
+  [slides][OSTVs])
 
 ## Fedora Kinoite
 
@@ -30,6 +39,11 @@ I also maintain unofficial stable builds based on Fedora 34 for Fedora Kinoite
 and other variants (XFCE, LXQt, Deepin, Mate and Pantheon). See [this Fedora
 Magazine article][Article] and [this Fedora Discussion thread][Thread] for
 details.
+
+### Talks
+
+- Introducing Kinoite: a new Fedora variant featuring the KDE Plasma desktop,
+  Akademy 2021 ([video][Akademy2021v] & [slides][Akademy2021s])
 
 ## Flatpaks
 
@@ -59,3 +73,10 @@ many [KDE applications][Apps] as possible in Flatpaks for [Flathub] and Fedora
 [Thread]: https://discussion.fedoraproject.org/t/kinoite-a-kde-and-now-xfce-version-of-fedora-silverblue/147
 [Apps]: https://kde.org/applications
 [Flathub]: https://flathub.org/home
+[PtS2021]: https://passthesalt.ubicast.tv/permalink/v1261ac040dde0dnl9vh/
+[CPD2021v]: https://www.youtube.com/watch?v=janS7oRMudg
+[CPD2021s]: https://siosm.fedorapeople.org/FCOS_and_IoT_Container_Plumbing_Days.pdf
+[OSTVv]: https://www.youtube.com/watch?v=yT5BP_hnqRE
+[OSTVs]: https://siosm.fedorapeople.org/FCOS_intro_slides_and_Matrix_demo.pdf
+[Akademy2021v]: https://www.youtube.com/watch?v=tm4_ftbvGMg
+[Akademy2021s]: https://siosm.fedorapeople.org/Introducing_Fedora_Kinoite_-_Akademy_2021.pdf
