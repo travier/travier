@@ -16,6 +16,8 @@ distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
 
 ### Talks
 
+- What's new and what's next in Fedora CoreOS, Nest with Fedora 2021
+  ([video][NwFCOS2021v] & [slides][NwFCOS2021s])
 - Fedora CoreOS, a container focused OS to securely deploy and run
   applications, Pass the SALT 2021 ([video & slides][PtS2021])
 - Fedora CoreOS or Fedora IoT? Containers Plumbing Days 2021 ([video][CPD2021v]
@@ -42,6 +44,8 @@ thread][KinoiteThread] for details.
 
 ### Talks
 
+- Introducing Kinoite: a new Fedora variant featuring the KDE Plasma desktop,
+  Nest with Fedora 2021 ([video][NwFK2021v] & [slides][NwFK2021s])
 - Introducing Kinoite: a new Fedora variant featuring the KDE Plasma desktop,
   Akademy 2021 ([video][Akademy2021v] & [slides][Akademy2021s])
 
@@ -83,3 +87,7 @@ in progress, coming latter).
 [OSTVs]: https://siosm.fedorapeople.org/FCOS_intro_slides_and_Matrix_demo.pdf
 [Akademy2021v]: https://www.youtube.com/watch?v=tm4_ftbvGMg
 [Akademy2021s]: https://siosm.fedorapeople.org/Introducing_Fedora_Kinoite_-_Akademy_2021.pdf
+[NwFCOS2021v]: https://www.youtube.com/watch?v=MAHCZItlXBM
+[NwFCOS2021s]: https://siosm.fedorapeople.org/What_s_new_and_what_s_next_in_Fedora_CoreOS_-_Nest_with_Fedora_2021.pdf
+[NwFK2021v]: https://www.youtube.com/watch?v=Xp0vRFEoXsU
+[NwFK2021s]: https://siosm.fedorapeople.org/Introducing_Fedora_Kinoite_-_Akademy_2021.pdf
