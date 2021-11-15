@@ -16,6 +16,8 @@ distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
 
 ### Talks
 
+- Fedora CoreOS, un système conçu pour faire tourner au mieux vos containers,
+  France DevOps Nov. 2021 ([video][FDO2021v] & [slides][FDO2021s])
 - What's new and what's next in Fedora CoreOS, Nest with Fedora 2021
   ([video][NwFCOS2021v] & [slides][NwFCOS2021s])
 - Fedora CoreOS, a container focused OS to securely deploy and run
@@ -91,3 +93,5 @@ in progress, coming latter).
 [NwFCOS2021s]: https://siosm.fedorapeople.org/What_s_new_and_what_s_next_in_Fedora_CoreOS_-_Nest_with_Fedora_2021.pdf
 [NwFK2021v]: https://www.youtube.com/watch?v=Xp0vRFEoXsU
 [NwFK2021s]: https://siosm.fedorapeople.org/Introducing_Fedora_Kinoite_-_Akademy_2021.pdf
+[FDO2021v]: https://www.francedevops.fr/webinars/fedora-coreos-un-systeme-concu-pour-faire-tourner-au-mieux-vos-containers
+[FDO2021s]: https://siosm.fedorapeople.org/Introduction%20%c3%a0%20Fedora%20CoreOS%20-%20DevOps%20France%20-%20Nov%202021.pdf
