@@ -32,12 +32,8 @@ distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
 [Fedora Kinoite] is a container focused desktop operating system featuring the
 [KDE Plasma desktop] and based on [rpm-ostree], [podman] and [Flatpak]. [Fedora
 Kinoite] is a close sibling of [Fedora Silverblue], which is based on the same
-core technologies and features the [GNOME desktop].
-
-The first stable release of Fedora Kinoite will be available as part of the
-Fedora 35 release. In the meantime, you can try the official [Fedora Kinoite 35
-Beta][Fedora Kinoite] or try it on an existing rpm-ostree based system by
-following the instructions from [this Fedora Discussion thread][KinoiteTest].
+core technologies and features the [GNOME desktop]. The first stable release of
+Fedora Kinoite is now available as part of the Fedora 35 release.
 
 I also used to maintain unofficial builds based on Fedora 34 and older for
 Fedora Kinoite and other variants (XFCE, LXQt, Deepin, Mate and Pantheon). See
@@ -77,7 +73,6 @@ in progress, coming latter).
 [Flatpak]: https://flatpak.org
 [Fedora Silverblue]: https://silverblue.fedoraproject.org
 [GNOME desktop]: https://www.gnome.org
-[KinoiteTest]: https://discussion.fedoraproject.org/t/how-to-test-fedora-kinoite-official-builds-only/30405
 [KinoiteArticle]: https://fedoramagazine.org/discover-fedora-kinoite/
 [KinoiteThread]: https://discussion.fedoraproject.org/t/kinoite-a-kde-and-now-xfce-version-of-fedora-silverblue/147
 [KDE Applications]: https://kde.org/applications
