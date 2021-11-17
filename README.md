@@ -61,7 +61,7 @@ in progress, coming latter).
 [StackExchange]: https://stackexchange.com/users/2619545/siosm
 [Red Hat]: https://www.redhat.com
 [Fedora CoreOS]: https://getfedora.org/en/coreos
-[Red Hat CoreOS]: https://docs.openshift.com/container-platform/4.7/architecture/architecture-rhcos.html
+[Red Hat CoreOS]: https://docs.openshift.com/container-platform/4.9/architecture/architecture-rhcos.html
 [Kubernetes]: https://kubernetes.io
 [OpenShift]: https://www.openshift.com
 [OKD]: https://www.okd.io
