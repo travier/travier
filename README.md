@@ -14,18 +14,7 @@ CoreOS systems are all about running containers at scale with [Kubernetes]
 distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
 [podman].
 
-### Talks
-
-- Fedora CoreOS, un système conçu pour faire tourner au mieux vos containers,
-  France DevOps Nov. 2021 ([video][FDO2021v] & [slides][FDO2021s])
-- What's new and what's next in Fedora CoreOS, Nest with Fedora 2021
-  ([video][NwFCOS2021v] & [slides][NwFCOS2021s])
-- Fedora CoreOS, a container focused OS to securely deploy and run
-  applications, Pass the SALT 2021 ([video & slides][PtS2021])
-- Fedora CoreOS or Fedora IoT? Containers Plumbing Days 2021 ([video][CPD2021v]
-  & [slides][CPD2021s])
-- Let's Talk About Fedora CoreOS, OpenShift TV ([video][OSTVv] &
-  [slides][OSTVs])
+[See talks about Fedora CoreOS](talks.md#fedora-coreos).
 
 ## Fedora Kinoite
 
@@ -40,12 +29,7 @@ Fedora Kinoite and other variants (XFCE, LXQt, Deepin, Mate and Pantheon). See
 [this Fedora Magazine article][KinoiteArticle] and [this Fedora Discussion
 thread][KinoiteThread] for details.
 
-### Talks
-
-- Introducing Kinoite: a new Fedora variant featuring the KDE Plasma desktop,
-  Nest with Fedora 2021 ([video][NwFK2021v] & [slides][NwFK2021s])
-- Introducing Kinoite: a new Fedora variant featuring the KDE Plasma desktop,
-  Akademy 2021 ([video][Akademy2021v] & [slides][Akademy2021s])
+[See talks about Fedora Kinoite](talks.md#fedora-kinoite).
 
 ## Flatpaks
 
@@ -56,6 +40,7 @@ in progress, coming latter).
 
 ## Reference pages
 
+- [Talks](talks.md)
 - [Good reads](goodreads.md)
 
 [Blog]: https://tim.siosm.fr
@@ -63,6 +48,7 @@ in progress, coming latter).
 [GitHub]: https://github.com/travier
 [GitLab]: https://gitlab.com/Siosm
 [StackExchange]: https://stackexchange.com/users/2619545/siosm
+
 [Red Hat]: https://www.redhat.com
 [Fedora CoreOS]: https://getfedora.org/en/coreos
 [Red Hat CoreOS]: https://docs.openshift.com/container-platform/4.9/architecture/architecture-rhcos.html
@@ -81,16 +67,3 @@ in progress, coming latter).
 [KinoiteThread]: https://discussion.fedoraproject.org/t/kinoite-a-kde-and-now-xfce-version-of-fedora-silverblue/147
 [KDE Applications]: https://kde.org/applications
 [Flathub]: https://flathub.org/home
-[PtS2021]: https://passthesalt.ubicast.tv/permalink/v1261ac040dde0dnl9vh/
-[CPD2021v]: https://www.youtube.com/watch?v=janS7oRMudg
-[CPD2021s]: https://siosm.fedorapeople.org/FCOS_and_IoT_Container_Plumbing_Days.pdf
-[OSTVv]: https://www.youtube.com/watch?v=yT5BP_hnqRE
-[OSTVs]: https://siosm.fedorapeople.org/FCOS_intro_slides_and_Matrix_demo.pdf
-[Akademy2021v]: https://www.youtube.com/watch?v=tm4_ftbvGMg
-[Akademy2021s]: https://siosm.fedorapeople.org/Introducing_Fedora_Kinoite_-_Akademy_2021.pdf
-[NwFCOS2021v]: https://www.youtube.com/watch?v=MAHCZItlXBM
-[NwFCOS2021s]: https://siosm.fedorapeople.org/What_s_new_and_what_s_next_in_Fedora_CoreOS_-_Nest_with_Fedora_2021.pdf
-[NwFK2021v]: https://www.youtube.com/watch?v=Xp0vRFEoXsU
-[NwFK2021s]: https://siosm.fedorapeople.org/Introducing_Fedora_Kinoite_-_Akademy_2021.pdf
-[FDO2021v]: https://www.francedevops.fr/webinars/fedora-coreos-un-systeme-concu-pour-faire-tourner-au-mieux-vos-containers
-[FDO2021s]: https://siosm.fedorapeople.org/Introduction%20%c3%a0%20Fedora%20CoreOS%20-%20DevOps%20France%20-%20Nov%202021.pdf
