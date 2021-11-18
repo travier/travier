@@ -54,6 +54,10 @@ To increase the number of applications available as [Flatpaks][Flatpak] for
 many [KDE applications] as possible in Flatpaks for [Flathub] and Fedora (still
 in progress, coming latter).
 
+## Reference pages
+
+- [Good reads](goodreads.md)
+
 [Blog]: https://tim.siosm.fr
 [Twitter]: https://twitter.com/Siosm
 [GitHub]: https://github.com/travier
