@@ -44,7 +44,7 @@ See the [CLIP OS website] for more details:
 [OSTVv]: https://www.youtube.com/watch?v=yT5BP_hnqRE
 [OSTVs]: https://siosm.fedorapeople.org/FCOS_intro_slides_and_Matrix_demo.pdf
 
-[FKFRP2021v]: https://app.hopin.com/events/fedora-linux-35-release-party/replay/Um91bmR0YWJsZVJlY29yZGluZ0FyY2hpdmU6NzA3MjI=
+[FKFRP2021v]: https://www.youtube.com/watch?v=bfIXB9aRZ8E
 [FKFRP2021s]: https://siosm.fedorapeople.org/Hello%20World_%20from%20Fedora%20Kinoite%20-%20Fedora%2035%20Release%20Party%202021.pdf
 [NwFK2021v]: https://www.youtube.com/watch?v=Xp0vRFEoXsU
 [NwFK2021s]: https://siosm.fedorapeople.org/Introducing_Fedora_Kinoite_-_Akademy_2021.pdf
