@@ -1,7 +1,5 @@
 # Timothée Ravier (Siosm)
 
-[Blog] | [Twitter] | [GitHub] | [GitLab] | [StackExchange]
-
 Hi there! 👋 I am a Linux 🐧 system and security engineer interested in safe
 programming languages 🦀 and container focused operating systems 📦.
 
@@ -43,11 +41,14 @@ in progress, coming latter).
 - [Talks](talks.md)
 - [Good reads](goodreads.md)
 
-[Blog]: https://tim.siosm.fr
-[Twitter]: https://twitter.com/Siosm
-[GitHub]: https://github.com/travier
-[GitLab]: https://gitlab.com/Siosm
-[StackExchange]: https://stackexchange.com/users/2619545/siosm
+## Accounts on other Git forges
+
+[GitLab.com](https://gitlab.com/Siosm) |
+[KDE GitLab](https://invent.kde.org/ravier) |
+[GNOME GitLab](https://gitlab.gnome.org/travier) |
+[Freedesktop GitLab](https://gitlab.freedesktop.org/travier) |
+[Fedora Pagure](https://pagure.io/user/siosm) |
+[Fedora Package Sources](https://src.fedoraproject.org/user/siosm)
 
 [Red Hat]: https://www.redhat.com
 [Fedora CoreOS]: https://getfedora.org/en/coreos
