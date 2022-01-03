@@ -17,6 +17,9 @@ science:
 - [How to answer questions in a helpful way, Julia Evans](https://jvns.ca/blog/answer-questions-well/)
 - [How to get useful answers to your questions, Julia Evans](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
 - [I never hire breaded fish sticks. So stop introducing yourself as such. Quentin Adam](https://waxzce.medium.com/i-never-hire-breaded-fish-sticks-so-stop-introducing-yourself-as-such-ab6808728a42) (French: [Je n’embauche jamais de poisson pané. Alors arrêtez de vous présenter comme tel.](https://waxzce.medium.com/je-nembauche-jamais-de-poisson-pan%C3%A9-alors-arr%C3%AAtez-de-vous-pr%C3%A9senter-comme-tel-1eb318ee8a20))
+- [Absolute scale corrupts absolutely, Apenwarr](https://apenwarr.ca/log/20190819)
+- [The Gift of It's Your Problem Now, Apenwarr](https://apenwarr.ca/log/20211229)
+- [Lessons from my PhD, Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
 
 ## Development
 
