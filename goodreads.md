@@ -20,6 +20,7 @@ science:
 - [Absolute scale corrupts absolutely, Apenwarr](https://apenwarr.ca/log/20190819)
 - [The Gift of It's Your Problem Now, Apenwarr](https://apenwarr.ca/log/20211229)
 - [Lessons from my PhD, Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
+- [The Crossover Project, Hillel Wayne](https://www.hillelwayne.com/tags/crossover-project/)
 
 ## Development
 
