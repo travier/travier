@@ -42,6 +42,6 @@ This list is more focused towards computer security related content:
 Links related to the PIGA OS project and thesis on top of which I based some of
 my master's thesis and (incomplete) PhD student work:
 
-* [Jérémy Briffaut thesis on PIGA, 2007](https://hal.archives-ouvertes.fr/tel-00261613) \[French\]
-* [A new approach to enforce the security properties of a clustered high-interaction honeypot, 2009](https://graal.ens-lyon.fr/~jrouzaud/files/shpcs_2009.pdf) \[English\]
-* [PIGA-OS: retour sur le système d’exploitation vainqueur du défi sécurité, 2011](https://renpar.irisa.fr/cfse8/cfse8_16.pdf), ([HAL](https://hal.archives-ouvertes.fr/hal-00804275)) \[French\]
+* [Jérémy Briffaut thesis on PIGA, 2007](https://hal.archives-ouvertes.fr/tel-00261613) (French)
+* [A new approach to enforce the security properties of a clustered high-interaction honeypot, 2009](https://graal.ens-lyon.fr/~jrouzaud/files/shpcs_2009.pdf) (English)
+* [PIGA-OS: retour sur le système d’exploitation vainqueur du défi sécurité, 2011](https://renpar.irisa.fr/cfse8/cfse8_16.pdf), ([HAL](https://hal.archives-ouvertes.fr/hal-00804275)) (French)
