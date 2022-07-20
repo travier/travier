@@ -2,6 +2,10 @@
 
 ## Fedora CoreOS
 
+### 2022
+
+- Building operating systems optimized for containers, from IoT to desktops and servers, Pass the SALT 2022 ([video & slides][PtS2022])
+
 ### 2021
 
 - Fedora CoreOS, un système conçu pour faire tourner au mieux vos containers, France DevOps Nov. 2021 ([video][FDO2021v] & [slides][FDO2021s])
@@ -11,6 +15,10 @@
 - Let's Talk About Fedora CoreOS, OpenShift TV ([video][OSTVv] & [slides][OSTVs])
 
 ## Fedora Kinoite
+
+### 2022
+
+- Building operating systems optimized for containers, from IoT to desktops and servers, Pass the SALT 2022 ([video & slides][PtS2022])
 
 ### 2021
 
@@ -48,6 +56,9 @@ See the [CLIP OS website] for more details.
 ### 2012
 
 - State of the Linux graphics stack security (X11 & Wayland), X.org Developer Conference (XDC) 2012 ([videos and slides][XDC2012])
+
+
+[PtS2022]: https://passthesalt.ubicast.tv/videos/building-operating-systems-optimized-for-containers-from-iot-to-desktops-and-servers/
 
 [FDO2021v]: https://www.francedevops.fr/webinars/fedora-coreos-un-systeme-concu-pour-faire-tourner-au-mieux-vos-containers
 [FDO2021s]: https://siosm.fedorapeople.org/Introduction%20%c3%a0%20Fedora%20CoreOS%20-%20DevOps%20France%20-%20Nov%202021.pdf
