@@ -19,8 +19,8 @@ distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
 [Fedora Kinoite] is a container focused desktop operating system featuring the
 [KDE Plasma desktop] and based on [rpm-ostree], [podman] and [Flatpak]. [Fedora
 Kinoite] is a close sibling of [Fedora Silverblue], which is based on the same
-core technologies and features the [GNOME desktop]. The first stable release of
-Fedora Kinoite is now available as part of the Fedora 35 release.
+core technologies and features the [GNOME desktop]. Fedora Kinoite is available
+as part of the Fedora Project (first released with Fedora 35).
 
 I also used to maintain unofficial builds based on Fedora 34 and older for
 Fedora Kinoite and other variants (XFCE, LXQt, Deepin, Mate and Pantheon). See
