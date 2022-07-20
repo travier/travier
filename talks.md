@@ -2,6 +2,8 @@
 
 ## Fedora CoreOS
 
+### 2021
+
 - Fedora CoreOS, un système conçu pour faire tourner au mieux vos containers, France DevOps Nov. 2021 ([video][FDO2021v] & [slides][FDO2021s])
 - What's new and what's next in Fedora CoreOS, Nest with Fedora 2021 ([video][NwFCOS2021v] & [slides][NwFCOS2021s])
 - Fedora CoreOS, a container focused OS to securely deploy and run applications, Pass the SALT 2021 ([video & slides][PtS2021])
@@ -10,28 +12,41 @@
 
 ## Fedora Kinoite
 
+### 2021
+
 - Hello World! from Fedora Kinoite, Fedora 35 release party Nov. 2021 ([video][FKFRP2021v] & [slides][FKFRP2021s])
 - Introducing Kinoite: a new Fedora variant featuring the KDE Plasma desktop, Nest with Fedora 2021 ([video][NwFK2021v] & [slides][NwFK2021s])
 - Introducing Kinoite: a new Fedora variant featuring the KDE Plasma desktop, Akademy 2021 ([video][Akademy2021v] & [slides][Akademy2021s])
 
 ## CLIP OS
 
-See the [CLIP OS website] for more details:
+See the [CLIP OS website] for more details.
+
+### 2019
 
 - CLIP OS 5: Beta release, Paris Open Source Summit 2019 ([slides][POSS2019])
 - CLIP OS: Building a defense-in-depth OS with the Linux kernel and open source software, Journée nationales du GDR Sécurité 2019 ([slides][GDR2019])
 - CLIP OS: Building a defense-in-depth OS with the Linux kernel and open source software, Ready for IT 2019 ([slides][RFIT2019])
+
+### 2018
 - CLIP OS: Building a defense-in-depth OS with the Linux kernel and open source software, Paris Open Source Summit 2018 ([slides][POSS2018])
 - CLIP OS: Building a defense-in-depth OS around Linux kernel security improvements, Kernel Recipes 2018 ([video][KR2018v] & [slides][KR2018s])
 
 ## systemd
+
+### 2017
 
 - Linux system hardening thanks to systemd features, RMLL 2017 ([video and slides][systemd])
 - Durcissement système à l'aide de systemd, SSTIC 2017 ([video and slides][systemd])
 
 ## Linux graphics stack security
 
+### 2013
+
 - A walk through the Linux graphics stack security, FOSDEM 2013 ([archive][FOSDEM2013])
+
+### 2012
+
 - State of the Linux graphics stack security (X11 & Wayland), X.org Developer Conference (XDC) 2012 ([videos and slides][XDC2012])
 
 [FDO2021v]: https://www.francedevops.fr/webinars/fedora-coreos-un-systeme-concu-pour-faire-tourner-au-mieux-vos-containers
