@@ -41,6 +41,11 @@ in progress, coming latter).
 - [Talks](talks.md)
 - [Good reads](goodreads.md)
 
+## How to follow or contact me
+
+- Matrix: [@siosm:matrix.org](https://matrix.to/#/@siosm:matrix.org)
+- Mastodon: [siosm@floss.social](https://floss.social/@siosm)
+
 ## Accounts on other Git forges
 
 [GitLab.com](https://gitlab.com/Siosm) |
