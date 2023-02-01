@@ -22,10 +22,6 @@ Kinoite] is a close sibling of [Fedora Silverblue], which is based on the same
 core technologies and features the [GNOME desktop]. Fedora Kinoite is available
 as part of the Fedora Project (first released with Fedora 35).
 
-I also used to maintain unofficial builds based on Fedora 34 and older for
-Fedora Kinoite and other variants (XFCE, LXQt, Deepin, Mate and Pantheon). See
-[this Fedora Magazine article][KinoiteArticle] and [this Fedora Discussion
-thread][KinoiteThread] for details.
 
 [See talks about Fedora Kinoite](talks.md#fedora-kinoite).
 
@@ -69,7 +65,7 @@ in progress, coming latter).
 [Flatpak]: https://flatpak.org
 [Fedora Silverblue]: https://silverblue.fedoraproject.org
 [GNOME desktop]: https://www.gnome.org
-[KinoiteArticle]: https://fedoramagazine.org/discover-fedora-kinoite/
-[KinoiteThread]: https://discussion.fedoraproject.org/t/kinoite-a-kde-and-now-xfce-version-of-fedora-silverblue/147
 [KDE Applications]: https://kde.org/applications
 [Flathub]: https://flathub.org/home
+[toolbox]: https://github.com/coreos/toolbox
+[distrobox]: https://github.com/89luca89/distrobox
