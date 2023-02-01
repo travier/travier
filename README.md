@@ -38,6 +38,16 @@ To increase the number of applications available as [Flatpaks][Flatpak] for
 many [KDE applications] as possible in Flatpaks for [Flathub] and Fedora (still
 in progress, coming latter).
 
+## Toolbox (and distrobox) images
+
+To make it easier to run various popular distributions with [toolbox] or
+[distrobox], I've created a community maintained repository to share the
+maintenance of container images:
+[toolbx-images](https://github.com/toolbx-images/images). See [Community
+maintained images for toolbox (and
+distrobox)](https://tim.siosm.fr/blog/2022/12/05/toolbx-community-images/) for
+more details.
+
 ## Reference pages
 
 - [Talks](talks.md)
