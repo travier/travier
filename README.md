@@ -22,6 +22,12 @@ Kinoite] is a close sibling of [Fedora Silverblue], which is based on the same
 core technologies and features the [GNOME desktop]. Fedora Kinoite is available
 as part of the Fedora Project (first released with Fedora 35).
 
+Alongside the official Fedora Kinoite variant, I maintain unofficial variants,
+Kinoite Beta and Kinoite Nightly, that are respectively including KDE Beta and
+Nightly packages on top of stable Fedora in order to make it easier to test the
+latest changes in the KDE Plasma desktop environment. See [Introducing Kinoite
+Nightly (and Kinoite Beta)](https://tim.siosm.fr/blog/2023/01/20/introducing-kinoite-nightly-beta/)
+for more details.
 
 [See talks about Fedora Kinoite](talks.md#fedora-kinoite).
 
