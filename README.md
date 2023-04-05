@@ -31,7 +31,7 @@ Nightly (and Kinoite Beta)][KinoiteNightly] for more details.
 
 [See talks about Fedora Kinoite](talks.md#fedora-kinoite).
 
-## Flatpaks
+## KDE Apps as Flatpaks
 
 [rpm-ostree] based desktop systems (Silverblue, Kinoite, etc.) use
 [Flatpaks][Flatpak] to make graphical applications easily available to users. I
