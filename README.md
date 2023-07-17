@@ -71,13 +71,13 @@ more details.
 
 [Red Hat]: https://www.redhat.com
 [Fedora CoreOS]: https://getfedora.org/en/coreos
-[Red Hat CoreOS]: https://docs.openshift.com/container-platform/4.9/architecture/architecture-rhcos.html
+[Red Hat CoreOS]: https://docs.openshift.com/container-platform/4.13/architecture/architecture-rhcos.html
 [Kubernetes]: https://kubernetes.io
 [OpenShift]: https://www.openshift.com
 [OKD]: https://www.okd.io
 [Typhoon]: https://typhoon.psdn.io
 [podman]: https://podman.io
-[Fedora Kinoite]: https://kinoite.fedoraproject.org/
+[Fedora Kinoite]: https://fedoraproject.org/kinoite/
 [KinoiteNightly]: https://tim.siosm.fr/blog/2023/01/20/introducing-kinoite-nightly-beta/
 [KDE Plasma desktop]: https://kde.org
 [rpm-ostree]: https://coreos.github.io/rpm-ostree/
