@@ -1,6 +1,10 @@
 # Talks
 
-## Fedora CoreOS
+## Fedora CoreOS and CentOS Stream CoreOS
+
+### 2023
+
+- How we build OKD (Kubernetes distro) using Tekton, DevConf.cz 2023 ([video][DCCZ2023v], [info][DCCZ2023i], slides (coming soon))
 
 ### 2022
 
@@ -14,7 +18,11 @@
 - Fedora CoreOS or Fedora IoT? Containers Plumbing Days 2021 ([video][CPD2021v] & [slides][CPD2021s])
 - Let's Talk About Fedora CoreOS, OpenShift TV ([video][OSTVv] & [slides][OSTVs])
 
-## Fedora Kinoite
+## Fedora Kinoite and Flatpaks
+
+### 2023
+
+- Testing latest KDE software, from Plasma desktop to Apps, Akademy 2023 ([info and slides][Akademy2023s], video (coming soon))
 
 ### 2022
 
@@ -57,6 +65,11 @@ See the [CLIP OS website] for more details.
 
 - State of the Linux graphics stack security (X11 & Wayland), X.org Developer Conference (XDC) 2012 ([videos and slides][XDC2012])
 
+
+[DCCZ2023v]: https://www.youtube.com/live/FOJa_iAp7eU?feature=share&t=6956
+[DCCZ2023i]: https://devconfcz2023.sched.com/event/1MYg4/how-we-build-okd-kubernetes-distro-using-tekton
+
+[Akademy2023s]: https://conf.kde.org/event/5/contributions/138/
 
 [PtS2022]: https://passthesalt.ubicast.tv/videos/building-operating-systems-optimized-for-containers-from-iot-to-desktops-and-servers/
 

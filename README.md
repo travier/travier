@@ -12,7 +12,7 @@ CoreOS systems are all about running containers at scale with [Kubernetes]
 distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
 [podman].
 
-[See talks about Fedora CoreOS](talks.md#fedora-coreos).
+[See talks about Fedora CoreOS and CentOS Stream CoreOS](talks.md#fedora-coreos-and-centos-stream-coreos).
 
 ## Fedora Kinoite
 
@@ -29,7 +29,7 @@ Nightly packages on top of stable Fedora in order to make it easier to test the
 latest changes in the KDE Plasma desktop environment. See [Introducing Kinoite
 Nightly (and Kinoite Beta)][KinoiteNightly] for more details.
 
-[See talks about Fedora Kinoite](talks.md#fedora-kinoite).
+[See talks about Fedora Kinoite](talks.md#fedora-kinoite-and-flatpaks).
 
 ## KDE Apps as Flatpaks
 
@@ -37,6 +37,8 @@ Nightly (and Kinoite Beta)][KinoiteNightly] for more details.
 [Flatpaks][Flatpak] to make graphical applications easily available to users. I
 maintain [KDE applications] Flatpaks in [Flathub] and am working on packaging
 and fixing the missing ones.
+
+[See talks about Flatpaks](talks.md#fedora-kinoite-and-flatpaks).
 
 ## Toolbox (and distrobox) images
 
