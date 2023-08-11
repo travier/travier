@@ -22,7 +22,7 @@
 
 ### 2023
 
-- Testing latest KDE software, from Plasma desktop to Apps, Akademy 2023 ([info and slides][Akademy2023s], video (coming soon))
+- Testing latest KDE software, from Plasma desktop to Apps, Akademy 2023 ([info][Akademy2023i], [slides][Akademy2023s], [video][Akademy2023v])
 
 ### 2022
 
@@ -69,7 +69,9 @@ See the [CLIP OS website] for more details.
 [DCCZ2023v]: https://www.youtube.com/live/FOJa_iAp7eU?feature=share&t=6956
 [DCCZ2023i]: https://devconfcz2023.sched.com/event/1MYg4/how-we-build-okd-kubernetes-distro-using-tekton
 
-[Akademy2023s]: https://conf.kde.org/event/5/contributions/138/
+[Akademy2023i]: https://conf.kde.org/event/5/contributions/138/
+[Akademy2023s]: https://siosm.fedorapeople.org/Akademy%202023%20-%20Testing%20latest%20KDE%20software,%20from%20Plasma%20desktop%20to%20Apps.pdf
+[Akademy2023v]: https://www.youtube.com/live/U8TvXA9BkPk?feature=share&t=20318
 
 [PtS2022]: https://passthesalt.ubicast.tv/videos/building-operating-systems-optimized-for-containers-from-iot-to-desktops-and-servers/
 
