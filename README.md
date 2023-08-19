@@ -10,7 +10,7 @@ CoreOS] and [Red Hat CoreOS].
 
 CoreOS systems are all about running containers at scale with [Kubernetes]
 distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
-[podman].
+[podman] and [quadlet].
 
 [See talks about Fedora CoreOS and CentOS Stream CoreOS](talks.md#fedora-coreos-and-centos-stream-coreos).
 
@@ -23,11 +23,17 @@ core technologies and features the [GNOME desktop]. Fedora Kinoite is available
 as part of the Fedora Project (first released with Fedora 35). I am a
 maintainer for those Fedora variants.
 
+Those Fedora variants are also the base for the [Universal Blue] images that
+include drivers (NVIDIA), codecs and other changes that we can not include in
+Fedora, generally for legal reasons. I recommend giving them a try if your
+hardware requires this kind of support.
+
 Alongside the official Fedora Kinoite variant, I maintain unofficial variants,
 Kinoite Beta and Kinoite Nightly, that are respectively including KDE Beta and
 Nightly packages on top of stable Fedora in order to make it easier to test the
 latest changes in the KDE Plasma desktop environment. See [Introducing Kinoite
-Nightly (and Kinoite Beta)][KinoiteNightly] for more details.
+Nightly (and Kinoite Beta)][KinoiteNightly] for more details (currently paused
+while we work on Plasma 6 images.
 
 [See talks about Fedora Kinoite](talks.md#fedora-kinoite-and-flatpaks).
 
@@ -57,8 +63,8 @@ more details.
 
 ## How to follow or contact me
 
-- Matrix: [@siosm:matrix.org](https://matrix.to/#/@siosm:matrix.org)
 - Mastodon: [siosm@floss.social](https://floss.social/@siosm)
+- Matrix: [@siosm:matrix.org](https://matrix.to/#/@siosm:matrix.org)
 
 ## Accounts on other Git forges
 
@@ -77,6 +83,7 @@ more details.
 [OKD]: https://www.okd.io
 [Typhoon]: https://typhoon.psdn.io
 [podman]: https://podman.io
+[quadlet]: https://docs.podman.io/en/latest/markdown/podman-systemd.unit.5.html
 [Fedora Kinoite]: https://fedoraproject.org/kinoite/
 [KinoiteNightly]: https://tim.siosm.fr/blog/2023/01/20/introducing-kinoite-nightly-beta/
 [KDE Plasma desktop]: https://kde.org
@@ -84,6 +91,7 @@ more details.
 [Flatpak]: https://flatpak.org
 [Fedora Silverblue]: https://silverblue.fedoraproject.org
 [GNOME desktop]: https://www.gnome.org
+[Universal Blue]: https://universal-blue.org/
 [KDE Applications]: https://kde.org/applications
 [Flathub]: https://flathub.org/home
 [toolbox]: https://github.com/coreos/toolbox
