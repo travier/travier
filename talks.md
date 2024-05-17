@@ -18,11 +18,12 @@
 - Fedora CoreOS or Fedora IoT? Containers Plumbing Days 2021 ([video][CPD2021v] & [slides][CPD2021s])
 - Let's Talk About Fedora CoreOS, OpenShift TV ([video][OSTVv] & [slides][OSTVs])
 
-## Fedora Kinoite and Flatpaks
+## Fedora Atomic Desktops and Flatpaks
 
 ### 2023
 
 - Testing latest KDE software, from Plasma desktop to Apps, Akademy 2023 ([info][Akademy2023i], [slides][Akademy2023s], [video][Akademy2023v])
+- What's new in Fedora Silverblue, Kinoite, Sericea and Onyx?, Fedora 39 Release Party ([slides][F39RPs], [video][F39RPv])
 
 ### 2022
 
@@ -72,6 +73,9 @@ See the [CLIP OS website] for more details.
 [Akademy2023i]: https://conf.kde.org/event/5/contributions/138/
 [Akademy2023s]: https://siosm.fedorapeople.org/Akademy%202023%20-%20Testing%20latest%20KDE%20software,%20from%20Plasma%20desktop%20to%20Apps.pdf
 [Akademy2023v]: https://www.youtube.com/live/U8TvXA9BkPk?feature=share&t=20318
+
+[F39RPs]: https://siosm.fedorapeople.org/2023%20Fedora%2039%20Release%20Party%20-%20What's%20new%20and%20what's%20next%20in%20Fedora%20Atomic%20Desktops.pdf
+[F39RPv]: https://www.youtube.com/watch?v=6PdHsse_3hc
 
 [PtS2022]: https://passthesalt.ubicast.tv/videos/building-operating-systems-optimized-for-containers-from-iot-to-desktops-and-servers/
 

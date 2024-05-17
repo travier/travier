@@ -14,37 +14,29 @@ distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
 
 [See talks about Fedora CoreOS and CentOS Stream CoreOS](talks.md#fedora-coreos-and-centos-stream-coreos).
 
-## Fedora Kinoite
+## Fedora Atomic Desktops (Silverblue, Kinoite, etc.)
 
-[Fedora Kinoite] is a container focused desktop operating system featuring the
-[KDE Plasma desktop] and based on [rpm-ostree], [podman] and [Flatpak]. [Fedora
-Kinoite] is a close sibling of [Fedora Silverblue], which is based on the same
-core technologies and features the [GNOME desktop]. Fedora Kinoite is available
-as part of the Fedora Project (first released with Fedora 35). I am a
-maintainer for those Fedora variants.
+I am a maintainer for the [Fedora Atomic Desktops]. They are container focused
+desktop operating systems based on [rpm-ostree], [podman] and [Flatpak]. I
+primarily maintain the [Silverblue] and [Kinoite] variants which respectively
+feature the [GNOME] and [KDE Plasma] desktops environments.
 
-Those Fedora variants are also the base for the [Universal Blue] images that
-include drivers (NVIDIA), codecs and other changes that we can not include in
-Fedora, generally for legal reasons. I recommend giving them a try if your
-hardware requires this kind of support.
+The [Fedora Atomic Desktops] are also the base for the [Universal Blue] images
+([Aurora], [Bazzite], [Bluefin]) that include drivers (NVIDIA), codecs and
+other changes that we can not include in Fedora, generally for legal reasons. I
+recommend giving them a try if your hardware requires this kind of support.
 
-Alongside the official Fedora Kinoite variant, I maintain unofficial variants,
-Kinoite Beta and Kinoite Nightly, that are respectively including KDE Beta and
-Nightly packages on top of stable Fedora in order to make it easier to test the
-latest changes in the KDE Plasma desktop environment. See [Introducing Kinoite
-Nightly (and Kinoite Beta)][KinoiteNightly] for more details (currently paused
-while we work on Plasma 6 images.
-
-[See talks about Fedora Kinoite](talks.md#fedora-kinoite-and-flatpaks).
+[See talks about Fedora Atomic Desktops](talks.md#fedora-atomic-desktops-and-flatpaks).
 
 ## KDE Apps as Flatpaks
 
-[rpm-ostree] based desktop systems (Silverblue, Kinoite, etc.) use
+[Fedora Atomic Desktops] systems (Silverblue, Kinoite, etc.) use
 [Flatpaks][Flatpak] to make graphical applications easily available to users. I
-maintain [KDE applications] Flatpaks in [Flathub] and am working on packaging
-and fixing the missing ones.
+am part of the team that maintains the [KDE applications] Flatpaks in
+[Flathub]. I am also looking at packaging the missing ones and improving the
+integration in KDE Invent and KDE development in general.
 
-[See talks about Flatpaks](talks.md#fedora-kinoite-and-flatpaks).
+[See talks about Flatpaks](talks.md#fedora-atomic-desktops-and-flatpaks).
 
 ## Toolbox (and distrobox) images
 
@@ -84,14 +76,18 @@ more details.
 [Typhoon]: https://typhoon.psdn.io
 [podman]: https://podman.io
 [quadlet]: https://docs.podman.io/en/latest/markdown/podman-systemd.unit.5.html
-[Fedora Kinoite]: https://fedoraproject.org/kinoite/
-[KinoiteNightly]: https://tim.siosm.fr/blog/2023/01/20/introducing-kinoite-nightly-beta/
-[KDE Plasma desktop]: https://kde.org
+[Fedora Atomic Desktops]: https://fedoraproject.org/atomic-desktops/
 [rpm-ostree]: https://coreos.github.io/rpm-ostree/
 [Flatpak]: https://flatpak.org
-[Fedora Silverblue]: https://silverblue.fedoraproject.org
-[GNOME desktop]: https://www.gnome.org
+[Silverblue]: https://fedoraproject.org/atomic-desktops/silverblue/
+[Kinoite]: https://fedoraproject.org/atomic-desktops/kinoite/
+[GNOME]: https://www.gnome.org
+[KDE Plasma]: https://kde.org
 [Universal Blue]: https://universal-blue.org/
+[Aurora]: https://universal-blue.org/
+[Bazzite]: https://bazzite.gg/
+[Bluefin]: https://projectbluefin.io/
+[KinoiteNightly]: https://tim.siosm.fr/blog/2023/01/20/introducing-kinoite-nightly-beta/
 [KDE Applications]: https://kde.org/applications
 [Flathub]: https://flathub.org/home
 [toolbox]: https://github.com/coreos/toolbox
