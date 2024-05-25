@@ -20,6 +20,10 @@
 
 ## Fedora Atomic Desktops and Flatpaks
 
+### 2024
+
+- What's new for Fedora Atomic Desktops in Fedora 40?, Fedora 40 Release Party ([slides][F40RPs], video (coming soon))
+
 ### 2023
 
 - Testing latest KDE software, from Plasma desktop to Apps, Akademy 2023 ([info][Akademy2023i], [slides][Akademy2023s], [video][Akademy2023v])
@@ -69,6 +73,8 @@ See the [CLIP OS website] for more details.
 
 [DCCZ2023v]: https://www.youtube.com/live/FOJa_iAp7eU?feature=share&t=6956
 [DCCZ2023i]: https://devconfcz2023.sched.com/event/1MYg4/how-we-build-okd-kubernetes-distro-using-tekton
+
+[F40RPs]: https://siosm.fedorapeople.org/2024%20Fedora%2040%20Release%20Party%20-%20What's%20new%20and%20what's%20next%20in%20Fedora%20Atomic%20Desktops.pdf
 
 [Akademy2023i]: https://conf.kde.org/event/5/contributions/138/
 [Akademy2023s]: https://siosm.fedorapeople.org/Akademy%202023%20-%20Testing%20latest%20KDE%20software,%20from%20Plasma%20desktop%20to%20Apps.pdf
