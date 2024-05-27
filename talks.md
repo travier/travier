@@ -22,7 +22,7 @@
 
 ### 2024
 
-- What's new for Fedora Atomic Desktops in Fedora 40?, Fedora 40 Release Party ([slides][F40RPs], video (coming soon))
+- What's new for Fedora Atomic Desktops in Fedora 40?, Fedora 40 Release Party ([slides][F40RPs], [video][F40RPv])
 
 ### 2023
 
@@ -75,6 +75,7 @@ See the [CLIP OS website] for more details.
 [DCCZ2023i]: https://devconfcz2023.sched.com/event/1MYg4/how-we-build-okd-kubernetes-distro-using-tekton
 
 [F40RPs]: https://siosm.fedorapeople.org/2024%20Fedora%2040%20Release%20Party%20-%20What's%20new%20and%20what's%20next%20in%20Fedora%20Atomic%20Desktops.pdf
+[F40RPv]: https://www.youtube.com/live/DRoy2TZC5V4?feature=shared&t=2340
 
 [Akademy2023i]: https://conf.kde.org/event/5/contributions/138/
 [Akademy2023s]: https://siosm.fedorapeople.org/Akademy%202023%20-%20Testing%20latest%20KDE%20software,%20from%20Plasma%20desktop%20to%20Apps.pdf
