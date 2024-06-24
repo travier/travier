@@ -76,7 +76,7 @@ See the [CLIP OS website] for more details.
 - State of the Linux graphics stack security (X11 & Wayland), X.org Developer Conference (XDC) 2012 ([videos and slides][XDC2012])
 
 [DevConfCZ2024i]: https://pretalx.com/devconf-cz-2024/talk/SKSFGA/
-[DevConfCZ2024v]: https://www.youtube.com/live/Hs1XtdjoaLM?si=18CsrNSXgxT-fweJ&t=14416
+[DevConfCZ2024v]: https://www.youtube.com/watch?v=fDvE3hbmLUo&t=7
 
 [DCCZ2023v]: https://www.youtube.com/live/FOJa_iAp7eU?feature=share&t=6956
 [DCCZ2023i]: https://devconfcz2023.sched.com/event/1MYg4/how-we-build-okd-kubernetes-distro-using-tekton
