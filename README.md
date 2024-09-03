@@ -50,7 +50,7 @@ more details.
 
 ## Reference pages
 
-- [Talks](talks.md)
+- [Talks and podcasts](talks.md)
 - [Good reads](goodreads.md)
 
 ## How to follow or contact me

@@ -1,14 +1,16 @@
-# Talks
+# Talks and podcasts
 
 ## Fedora CoreOS and CentOS Stream CoreOS
 
 ### 2024
 
 - Customize your operating system like a container or start a new project without building a new distribution, DevConf.cz 2024 ([info & slides][DevConfCZ2024i], [video][DevConfCZ2024v])
+- The Next Generation of Linux?, Fedora Podcast 36 ([audio][FPC2024a], [video][FPC2024v])
 
 ### 2023
 
 - How we build OKD (Kubernetes distro) using Tekton, DevConf.cz 2023 ([video][DCCZ2023v], [info][DCCZ2023i], slides (coming soon))
+- Silverblue and Immutable Desktops, Fedora Podcast 30 ([audio][FPC2023a], [video][FPC2023v])
 
 ### 2022
 
@@ -21,6 +23,7 @@
 - Fedora CoreOS, a container focused OS to securely deploy and run applications, Pass the SALT 2021 ([video & slides][PtS2021])
 - Fedora CoreOS or Fedora IoT? Containers Plumbing Days 2021 ([video][CPD2021v] & [slides][CPD2021s])
 - Let's Talk About Fedora CoreOS, OpenShift TV ([video][OSTVv] & [slides][OSTVs])
+- The Hosts, Timothée, and Neal, Fedora Podcast 16 ([audio][FPC2021a])
 
 ## Fedora Atomic Desktops and Flatpaks
 
@@ -77,9 +80,13 @@ See the [CLIP OS website] for more details.
 
 [DevConfCZ2024i]: https://pretalx.com/devconf-cz-2024/talk/SKSFGA/
 [DevConfCZ2024v]: https://www.youtube.com/watch?v=fDvE3hbmLUo&t=7
+[FPC2024a]: https://fedoraproject.fireside.fm/36
+[FPC2024v]: https://www.youtube.com/watch?v=zF7aTCoWoLQ
 
 [DCCZ2023v]: https://www.youtube.com/live/FOJa_iAp7eU?feature=share&t=6956
 [DCCZ2023i]: https://devconfcz2023.sched.com/event/1MYg4/how-we-build-okd-kubernetes-distro-using-tekton
+[FPC2023a]: https://fedoraproject.fireside.fm/30
+[FPC2023v]: https://www.youtube.com/watch?v=cHYyGVOae84
 
 [F40RPs]: https://siosm.fedorapeople.org/2024%20Fedora%2040%20Release%20Party%20-%20What's%20new%20and%20what's%20next%20in%20Fedora%20Atomic%20Desktops.pdf
 [F40RPv]: https://www.youtube.com/watch?v=yu5J2C1xqRs&t=66
@@ -102,6 +109,7 @@ See the [CLIP OS website] for more details.
 [CPD2021s]: https://siosm.fedorapeople.org/FCOS_and_IoT_Container_Plumbing_Days.pdf
 [OSTVv]: https://www.youtube.com/watch?v=yT5BP_hnqRE
 [OSTVs]: https://siosm.fedorapeople.org/FCOS_intro_slides_and_Matrix_demo.pdf
+[FPC2021a]: https://fedoraproject.fireside.fm/16
 
 [FKFRP2021v]: https://www.youtube.com/watch?v=bfIXB9aRZ8E
 [FKFRP2021s]: https://siosm.fedorapeople.org/Hello%20World_%20from%20Fedora%20Kinoite%20-%20Fedora%2035%20Release%20Party%202021.pdf
