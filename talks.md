@@ -6,6 +6,8 @@
 
 - Customize your operating system like a container or start a new project without building a new distribution, DevConf.cz 2024 ([info & slides][DevConfCZ2024i], [video][DevConfCZ2024v])
 - The Next Generation of Linux?, Fedora Podcast 36 ([audio][FPC2024a], [video][FPC2024v])
+- The road to a trusted and measured boot chain in Bootable Containers, All Systems Go! ([slides][ASG2024UKIs], [video][ASG2024UKIv])
+- Waiter, an OS please, with some sysext sprinkled on top, All Systems Go! ([slides][ASG2024SYSs], [video][ASG2024SYSv])
 
 ### 2023
 
@@ -31,6 +33,9 @@
 
 - What's new for Fedora Atomic Desktops in Fedora 40?, Fedora 40 Release Party ([slides][F40RPs], [video][F40RPv])
 - Customize your operating system like a container or start a new project without building a new distribution, DevConf.cz 2024 ([info & slides][DevConfCZ2024i], [video][DevConfCZ2024v])
+- The Next Generation of Linux?, Fedora Podcast 36 ([audio][FPC2024a], [video][FPC2024v])
+- The road to a trusted and measured boot chain in Bootable Containers, All Systems Go! ([slides][ASG2024UKIs], [video][ASG2024UKIv])
+- Waiter, an OS please, with some sysext sprinkled on top, All Systems Go! ([slides][ASG2024SYSs], [video][ASG2024SYSv])
 
 ### 2023
 
@@ -77,6 +82,11 @@ See the [CLIP OS website] for more details.
 ### 2012
 
 - State of the Linux graphics stack security (X11 & Wayland), X.org Developer Conference (XDC) 2012 ([videos and slides][XDC2012])
+
+[ASG2024UKIs]: https://cfp.all-systems-go.io/all-systems-go-2024/talk/HVEZQQ/
+[ASG2024UKIv]: https://media.ccc.de/v/all-systems-go-2024-309-the-road-to-a-trusted-and-measured-boot-chain-in-bootable-containers
+[ASG2024SYSs]: https://cfp.all-systems-go.io/all-systems-go-2024/talk/HJLF3C/
+[ASG2024SYSv]: https://media.ccc.de/v/all-systems-go-2024-313-waiter-an-os-please-with-some-sysext-sprinkled-on-top
 
 [DevConfCZ2024i]: https://pretalx.com/devconf-cz-2024/talk/SKSFGA/
 [DevConfCZ2024v]: https://www.youtube.com/watch?v=fDvE3hbmLUo&t=7
