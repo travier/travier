@@ -4,6 +4,7 @@
 
 ### 2024
 
+- Kubernetes Under the Hood: The Benefits of Container Focused OS, KubeCon 2024 ([slides][KC2024s], [video][KC2024v])
 - Customize your operating system like a container or start a new project without building a new distribution, DevConf.cz 2024 ([info & slides][DevConfCZ2024i], [video][DevConfCZ2024v])
 - The Next Generation of Linux?, Fedora Podcast 36 ([audio][FPC2024a], [video][FPC2024v])
 - The road to a trusted and measured boot chain in Bootable Containers, All Systems Go! ([slides][ASG2024UKIs], [video][ASG2024UKIv])
@@ -90,8 +91,12 @@ See the [CLIP OS website] for more details.
 
 [DevConfCZ2024i]: https://pretalx.com/devconf-cz-2024/talk/SKSFGA/
 [DevConfCZ2024v]: https://www.youtube.com/watch?v=fDvE3hbmLUo&t=7
+
 [FPC2024a]: https://fedoraproject.fireside.fm/36
 [FPC2024v]: https://www.youtube.com/watch?v=zF7aTCoWoLQ
+
+[KC2024s]: https://kccnceu2024.sched.com/event/1YePg/kubernetes-under-the-hood-the-benefits-of-container-focused-os-mathieu-tortuyaux-microsoft-timothee-ravier-red-hat
+[KC2024v]: https://www.youtube.com/watch?v=Kp6FXsIpPBs
 
 [DCCZ2023v]: https://www.youtube.com/live/FOJa_iAp7eU?feature=share&t=6956
 [DCCZ2023i]: https://devconfcz2023.sched.com/event/1MYg4/how-we-build-okd-kubernetes-distro-using-tekton
