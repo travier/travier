@@ -37,6 +37,8 @@ This list is more focused toward software development related content:
 - [Write once, copy once, refactor once, Wyatt Carss](https://wcarss.ca/log/2015/01/write-once-copy-once-refactor-once/)
 - [Technical Debt: The Myth at the Heart of the IT Labyrinth, Quentin Adam](https://waxzce.medium.com/technical-debt-the-myth-at-the-heart-of-the-it-labyrinth-8e93954848ea) (French: [La dette technique : une supercherie mythologique pour galériens de l’IT](https://waxzce.medium.com/la-dette-technique-une-supercherie-mythologique-pour-gal%C3%A9riens-de-lit-7ed0dfbf39c7))
 - [A developer’s guide to programatically overcome fear of failure, Mandeep Kaur](https://www.pagerduty.com/blog/engineers-guide-on-the-importance-of-failure/)
+- [A debugging manifesto, Julia Evans](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
+- [Wizard zines, programming zines by Julia Evans](https://wizardzines.com)
 
 ## Security
 
