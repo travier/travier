@@ -37,6 +37,7 @@
 - The Next Generation of Linux?, Fedora Podcast 36 ([audio][FPC2024a], [video][FPC2024v])
 - The road to a trusted and measured boot chain in Bootable Containers, All Systems Go! ([slides][ASG2024UKIs], [video][ASG2024UKIv])
 - Waiter, an OS please, with some sysext sprinkled on top, All Systems Go! ([slides][ASG2024SYSs], [video][ASG2024SYSv])
+- What's new for Fedora Atomic Desktops in Fedora 41?, Fedora 41 Release Party ([slides][F41RPs], [video][F41RPv])
 
 ### 2023
 
@@ -105,6 +106,9 @@ See the [CLIP OS website] for more details.
 
 [F40RPs]: https://siosm.fedorapeople.org/2024%20Fedora%2040%20Release%20Party%20-%20What's%20new%20and%20what's%20next%20in%20Fedora%20Atomic%20Desktops.pdf
 [F40RPv]: https://www.youtube.com/watch?v=yu5J2C1xqRs&t=66
+
+[F41RPs]: https://siosm.fedorapeople.org/2024%20Fedora%2041%20Release%20Party%20-%20What's%20new%20and%20what's%20next%20in%20Fedora%20Atomic%20Desktops.pdf
+[F41RPv]: https://www.youtube.com/watch?v=7HE30N0xKE4
 
 [Akademy2023i]: https://conf.kde.org/event/5/contributions/138/
 [Akademy2023s]: https://siosm.fedorapeople.org/Akademy%202023%20-%20Testing%20latest%20KDE%20software,%20from%20Plasma%20desktop%20to%20Apps.pdf
