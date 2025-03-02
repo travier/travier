@@ -6,7 +6,7 @@ programming languages 🦀 and container focused operating systems 📦.
 ## CoreOS engineering
 
 I am currently a member of the CoreOS team at [Red Hat], working on [Fedora
-CoreOS] and [Red Hat CoreOS].
+CoreOS] and [Red Hat Enterprise Linux CoreOS].
 
 CoreOS systems are all about running containers at scale with [Kubernetes]
 distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
@@ -16,7 +16,7 @@ distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
 
 ## Fedora Atomic Desktops (Silverblue, Kinoite, etc.)
 
-I am a maintainer for the [Fedora Atomic Desktops]. They are container focused
+I am a maintainer of the [Fedora Atomic Desktops]. They are container focused
 desktop operating systems based on [rpm-ostree], [podman] and [Flatpak]. I
 primarily maintain the [Silverblue] and [Kinoite] variants which respectively
 feature the [GNOME] and [KDE Plasma] desktops environments.
@@ -47,6 +47,14 @@ maintenance of container images:
 maintained images for toolbox (and
 distrobox)](https://tim.siosm.fr/blog/2022/12/05/toolbx-community-images/) for
 more details.
+
+## Systemd system extensions (sysexts)
+
+To be able to safely extend CoreOS and Atomic Desktop systems without resorting
+to package layering or derivation, I am working on creating systemd system
+extensions (sysexts) for various common use cases. Those sysexts are currently
+experimental and unofficial, but should be usable and stable. See the
+[fedora-sysexts][fedora-sysexts] repo.
 
 ## Reference pages
 
@@ -92,3 +100,4 @@ more details.
 [Flathub]: https://flathub.org/home
 [toolbox]: https://github.com/coreos/toolbox
 [distrobox]: https://github.com/89luca89/distrobox
+[fedora-sysexts]: https://github.com/travier/fedora-sysexts
