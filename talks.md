@@ -1,5 +1,14 @@
 # Talks and podcasts
 
+## Bootable Containers (bootc)
+
+Talks related to Bootable Containers and the bootc project, that are applicable
+accross all Fedora Image Based variants (Fedora CoreOS, Atomic Desktops, etc.).
+
+### 2025
+
+- "Signed, Sealed, and Delivered", with UKIs and composefs, FOSDEM 2025 ([slides, video, demo][FOSDEM25])
+
 ## Fedora CoreOS and CentOS Stream CoreOS
 
 ### 2024
@@ -84,6 +93,8 @@ See the [CLIP OS website] for more details.
 ### 2012
 
 - State of the Linux graphics stack security (X11 & Wayland), X.org Developer Conference (XDC) 2012 ([videos and slides][XDC2012])
+
+[FOSDEM25]:https://fosdem.org/2025/schedule/event/fosdem-2025-5191--signed-sealed-and-delivered-with-ukis-and-composefs/
 
 [ASG2024UKIs]: https://cfp.all-systems-go.io/all-systems-go-2024/talk/HVEZQQ/
 [ASG2024UKIv]: https://media.ccc.de/v/all-systems-go-2024-309-the-road-to-a-trusted-and-measured-boot-chain-in-bootable-containers
