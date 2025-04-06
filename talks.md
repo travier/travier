@@ -8,6 +8,7 @@ accross all Fedora Image Based variants (Fedora CoreOS, Atomic Desktops, etc.).
 ### 2025
 
 - "Signed, Sealed, and Delivered", with UKIs and composefs, FOSDEM 2025 ([slides, video, demo][FOSDEM25])
+- Contribfest: Extending Image Based Systems Using Systemd System Extensions, KubeCon + CloudNativeCon Europe 2025 ([info & slides][KubeConEU25i], [hands-on][KubeConEU25h])
 
 ## Fedora CoreOS and CentOS Stream CoreOS
 
@@ -94,7 +95,10 @@ See the [CLIP OS website] for more details.
 
 - State of the Linux graphics stack security (X11 & Wayland), X.org Developer Conference (XDC) 2012 ([videos and slides][XDC2012])
 
-[FOSDEM25]:https://fosdem.org/2025/schedule/event/fosdem-2025-5191--signed-sealed-and-delivered-with-ukis-and-composefs/
+[KubeConEU25i]: https://kccnceu2025.sched.com/event/1tcxe/contribfest-extending-image-based-systems-using-systemd-system-extensions
+[KubeConEU25h]: https://github.com/tormath1/sysext-tutorial
+
+[FOSDEM25]: https://fosdem.org/2025/schedule/event/fosdem-2025-5191--signed-sealed-and-delivered-with-ukis-and-composefs/
 
 [ASG2024UKIs]: https://cfp.all-systems-go.io/all-systems-go-2024/talk/HVEZQQ/
 [ASG2024UKIv]: https://media.ccc.de/v/all-systems-go-2024-309-the-road-to-a-trusted-and-measured-boot-chain-in-bootable-containers
