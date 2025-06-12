@@ -9,6 +9,7 @@ accross all Fedora Image Based variants (Fedora CoreOS, Atomic Desktops, etc.).
 
 - "Signed, Sealed, and Delivered", with UKIs and composefs, FOSDEM 2025 ([slides, video, demo][FOSDEM25])
 - Contribfest: Extending Image Based Systems Using Systemd System Extensions, KubeCon + CloudNativeCon Europe 2025 ([info & slides][KubeConEU25i], [hands-on][KubeConEU25h])
+- UKIs and composefs support for Bootable Containers, DevConf.cz 2025 ([info & slides][DevConfCZ25s], [video][DevConfCZ25v])
 
 ## Fedora CoreOS and CentOS Stream CoreOS
 
@@ -39,6 +40,11 @@ accross all Fedora Image Based variants (Fedora CoreOS, Atomic Desktops, etc.).
 - The Hosts, Timothée, and Neal, Fedora Podcast 16 ([audio][FPC2021a])
 
 ## Fedora Atomic Desktops and Flatpaks
+
+### 2025
+
+- What's new for Fedora Atomic Desktops in Fedora 42?, Fedora 42 Release Party ([slides][F42RPs], [video][F42RPv])
+- Fedora Atomic Desktops: Are we the default yet?, Flock to Fedora 2025 ([info & slides][Flock25s], [video][Flock25v])
 
 ### 2024
 
@@ -94,6 +100,15 @@ See the [CLIP OS website] for more details.
 ### 2012
 
 - State of the Linux graphics stack security (X11 & Wayland), X.org Developer Conference (XDC) 2012 ([videos and slides][XDC2012])
+
+[DevConfCZ25s]: https://pretalx.devconf.info/devconf-cz-2025/talk/739KGC/
+[DevConfCZ25v]: https://www.youtube.com/live/UUuorawVSgM?feature=shared&t=3467
+
+[Flock25s]: https://cfp.fedoraproject.org/flock-to-fedora-2025/talk/8HKWCC/
+[Flock25v]: https://www.youtube.com/live/LvkFho1l238?t=7391s
+
+[F42RPs]: https://siosm.fedorapeople.org/2025%20Fedora%2042%20Release%20Party%20-%20What's%20new%20and%20what's%20next%20in%20Fedora%20Atomic%20Desktops.pdf
+[F42RPv]: https://www.youtube.com/live/BQQBjceG-nQ?feature=shared&t=3891
 
 [KubeConEU25i]: https://kccnceu2025.sched.com/event/1tcxe/contribfest-extending-image-based-systems-using-systemd-system-extensions
 [KubeConEU25h]: https://github.com/tormath1/sysext-tutorial
