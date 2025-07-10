@@ -54,7 +54,8 @@ To be able to safely extend CoreOS and Atomic Desktop systems without resorting
 to package layering or derivation, I am working on creating systemd system
 extensions (sysexts) for various common use cases. Those sysexts are currently
 experimental and unofficial, but should be usable and stable. See the
-[fedora-sysexts][fedora-sysexts] repo.
+[fedora-sysexts] repo. I am also working on a more ergonimic user experience
+for managing those sysexts with the [sysexts-manager] project.
 
 ## Reference pages
 
@@ -101,3 +102,4 @@ experimental and unofficial, but should be usable and stable. See the
 [toolbox]: https://github.com/coreos/toolbox
 [distrobox]: https://github.com/89luca89/distrobox
 [fedora-sysexts]: https://github.com/travier/fedora-sysexts
+[sysexts-manager]: https://github.com/travier/sysexts-manager
