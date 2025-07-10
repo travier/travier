@@ -77,7 +77,7 @@ experimental and unofficial, but should be usable and stable. See the
 
 [Red Hat]: https://www.redhat.com
 [Fedora CoreOS]: https://getfedora.org/en/coreos
-[Red Hat CoreOS]: https://docs.openshift.com/container-platform/4.13/architecture/architecture-rhcos.html
+[Red Hat Enterprise Linux CoreOS]: https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/architecture/architecture-rhcos
 [Kubernetes]: https://kubernetes.io
 [OpenShift]: https://www.openshift.com
 [OKD]: https://www.okd.io
