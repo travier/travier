@@ -17,9 +17,9 @@ distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
 ## Fedora Atomic Desktops (Silverblue, Kinoite, etc.)
 
 I am a maintainer of the [Fedora Atomic Desktops]. They are container focused
-desktop operating systems based on [rpm-ostree], [podman] and [Flatpak]. I
-primarily maintain the [Silverblue] and [Kinoite] variants which respectively
-feature the [GNOME] and [KDE Plasma] desktops environments.
+desktop operating systems based on [rpm-ostree]/[bootc], [podman] and
+[Flatpak]. I primarily maintain the [Silverblue] and [Kinoite] variants which
+
 
 The [Fedora Atomic Desktops] are also the base for the [Universal Blue] images
 ([Aurora], [Bazzite], [Bluefin]) that include drivers (NVIDIA), codecs and
@@ -87,6 +87,7 @@ for managing those sysexts with the [sysexts-manager] project.
 [quadlet]: https://docs.podman.io/en/latest/markdown/podman-systemd.unit.5.html
 [Fedora Atomic Desktops]: https://fedoraproject.org/atomic-desktops/
 [rpm-ostree]: https://coreos.github.io/rpm-ostree/
+[bootc]: https://github.com/bootc-dev/bootc
 [Flatpak]: https://flatpak.org
 [Silverblue]: https://fedoraproject.org/atomic-desktops/silverblue/
 [Kinoite]: https://fedoraproject.org/atomic-desktops/kinoite/
