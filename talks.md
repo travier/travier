@@ -10,6 +10,8 @@ accross all Fedora Image Based variants (Fedora CoreOS, Atomic Desktops, etc.).
 - "Signed, Sealed, and Delivered", with UKIs and composefs, FOSDEM 2025 ([slides, video, demo][FOSDEM25])
 - Contribfest: Extending Image Based Systems Using Systemd System Extensions, KubeCon + CloudNativeCon Europe 2025 ([info & slides][KubeConEU25i], [hands-on][KubeConEU25h])
 - UKIs and composefs support for Bootable Containers, DevConf.cz 2025 ([info, slides & video][DevConfCZ25])
+- Leveraging bootable OCI images in Fedora CoreOS and RHEL CoreOS, All Systems Go! 2025 Berlin ([info & slides][ASG25fbci], [video][ASG25fbcv])
+- UKI, composefs and remote attestation for Bootable Containers, All Systems Go! 2025 Berlin ([info & slides][ASG25bci], [video][ASG25bcv])
 
 ## Fedora CoreOS and CentOS Stream CoreOS
 
@@ -45,6 +47,7 @@ accross all Fedora Image Based variants (Fedora CoreOS, Atomic Desktops, etc.).
 
 - What's new for Fedora Atomic Desktops in Fedora 42?, Fedora 42 Release Party ([slides][F42RPs], [video][F42RPv])
 - Fedora Atomic Desktops: Are we the default yet?, Flock to Fedora 2025 ([info & slides][Flock25s], [video][Flock25v])
+- Extending Fedora Atomic Desktops using systemd system extensions, All Systems Go! 2025 Berlin ([info & slides][ASG25sei], [video][ASG25sev])
 
 ### 2024
 
@@ -100,6 +103,13 @@ See the [CLIP OS website] for more details.
 ### 2012
 
 - State of the Linux graphics stack security (X11 & Wayland), X.org Developer Conference (XDC) 2012 ([videos and slides][XDC2012])
+
+[ASG25fbci]: https://cfp.all-systems-go.io/all-systems-go-2025/talk/87TFB7/
+[ASG25fbcv]: https://media.ccc.de/v/all-systems-go-2025-375-leveraging-bootable-oci-images-in-fedora-coreos-and-rhel-coreos
+[ASG25bci]: https://cfp.all-systems-go.io/all-systems-go-2025/talk/TNKPQS/
+[ASG25bcv]: https://media.ccc.de/v/all-systems-go-2025-362-uki-composefs-and-remote-attestation-for-bootable-containers
+[ASG25sei]: https://cfp.all-systems-go.io/all-systems-go-2025/talk/DCVQLK/
+[ASG25sev]: https://media.ccc.de/v/all-systems-go-2025-356-extending-fedora-atomic-desktops-using-systemd-system-extensions
 
 [DevConfCZ25]: https://pretalx.devconf.info/devconf-cz-2025/talk/739KGC/
 
