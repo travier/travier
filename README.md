@@ -74,7 +74,9 @@ for managing those sysexts with the [sysexts-manager] project.
 [GNOME GitLab](https://gitlab.gnome.org/travier) |
 [Freedesktop GitLab](https://gitlab.freedesktop.org/travier) |
 [Fedora Pagure](https://pagure.io/user/siosm) |
-[Fedora Package Sources](https://src.fedoraproject.org/user/siosm)
+[Fedora Package Sources](https://src.fedoraproject.org/user/siosm) |
+[Fedora's Forge](https://forge.fedoraproject.org/siosm) |
+[Codeberg](https://codeberg.org/travier)
 
 [Red Hat]: https://www.redhat.com
 [Fedora CoreOS]: https://getfedora.org/en/coreos
