@@ -5,6 +5,10 @@
 Talks related to Bootable Containers and the bootc project, that are applicable
 accross all Fedora Image Based variants (Fedora CoreOS, Atomic Desktops, etc.).
 
+### 2026
+
+- Attestation à distance d’un cluster Kubernetes ou comment protéger la bergerie des loups numériques, Cloud Native Days France 2026 ([info][CNDFR26i], [slides][CNDFR26s], video coming soon)
+
 ### 2025
 
 - "Signed, Sealed, and Delivered", with UKIs and composefs, FOSDEM 2025 ([slides, video, demo][FOSDEM25])
@@ -103,6 +107,9 @@ See the [CLIP OS website] for more details.
 ### 2012
 
 - State of the Linux graphics stack security (X11 & Wayland), X.org Developer Conference (XDC) 2012 ([videos and slides][XDC2012])
+
+[CNDFR26i]: https://www.cloudnativedays.fr/programme
+[CNDFR26s]: https://siosm.fedorapeople.org/Attestation%20%c3%a0%20distance%20d%e2%80%99un%20cluster%20Kubernetes%20-%20Cloud%20Native%20Days%20France%202026.pdf
 
 [ASG25fbci]: https://cfp.all-systems-go.io/all-systems-go-2025/talk/87TFB7/
 [ASG25fbcv]: https://media.ccc.de/v/all-systems-go-2025-375-leveraging-bootable-oci-images-in-fedora-coreos-and-rhel-coreos
