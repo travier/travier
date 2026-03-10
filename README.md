@@ -61,6 +61,7 @@ for managing those sysexts with the [sysexts-manager] project.
 
 - [Talks and podcasts](talks.md)
 - [Good reads](goodreads.md)
+- [Generative AI and LLMs](genai-llms.md)
 
 ## How to follow or contact me
 
