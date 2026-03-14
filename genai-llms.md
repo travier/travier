@@ -29,6 +29,7 @@ It's more complicated at work.
 * https://social.joshtriplett.org/notice/AnhYDYczv2t6gGpVce
 * https://dair-community.social/@emilymbender/113422514020733312
 
+
 * [On LLMs and "beliefs, desires and intentions", Prof. Emily M. Bender](https://dair-community.social/@emilymbender/111752426710584505) ([Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://aclanthology.org/2020.acl-main.463/))
 * [The racism behind chatGPT we are not talking about..., Rua M. Williams](https://kolektiva.social/@FractalEcho/111949020988947948)
 * [Lost inner voices, the LLM impact on problem-solving, Koen Hufkens](https://khufkens.com/posts/lost-inner-voices-llm-impact-problem-solving-chatgpt-ml-teaching/)
@@ -101,6 +102,9 @@ It's more complicated at work.
 * [aking action against AI harms, Anil Dash](https://www.anildash.com/2026/02/23/taking-action-ai-harms/)
 * [Are AI-generated summaries suitable for studying and research?, Maarten Paulusse](https://www.tue.nl/en/our-university/library/library-news/24-02-2026-are-ai-generated-summaries-suitable-for-studying-and-research)
 * [What Is Code Review For?, Glyph](https://blog.glyph.im/2026/03/what-is-code-review-for.html)
+* [The No-AI list, the Starlight Network](https://noai.starlightnet.work/list.html)
+* [On AI psychoses from Cory Doctorow, Glyph](https://mastodon.social/@glyph/116220202738664759)
+* [AI autocomplete doesn’t just change how you write. It changes how you think, Claire Cameron](https://www.scientificamerican.com/article/ai-autocomplete-doesnt-just-change-how-you-write-it-changes-how-you-think/)
 
 <!--
 
