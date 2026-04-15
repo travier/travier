@@ -19,7 +19,7 @@ distributions ([OpenShift], [OKD], [Typhoon]) or on a single server with
 I am a maintainer of the [Fedora Atomic Desktops]. They are container focused
 desktop operating systems based on [rpm-ostree]/[bootc], [podman] and
 [Flatpak]. I primarily maintain the [Silverblue] and [Kinoite] variants which
-
+respectively feature the [GNOME] and [KDE Plasma] desktops environments.
 
 The [Fedora Atomic Desktops] are also the base for the [Universal Blue] images
 ([Aurora], [Bazzite], [Bluefin]) that include drivers (NVIDIA), codecs and
