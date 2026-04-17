@@ -7,7 +7,7 @@ accross all Fedora Image Based variants (Fedora CoreOS, Atomic Desktops, etc.).
 
 ### 2026
 
-- Attestation à distance d’un cluster Kubernetes ou comment protéger la bergerie des loups numériques, Cloud Native Days France 2026 ([info][CNDFR26i], [slides][CNDFR26s], video coming soon)
+- Attestation à distance d’un cluster Kubernetes ou comment protéger la bergerie des loups numériques, Cloud Native Days France 2026 ([info][CNDFR26i], [slides][CNDFR26s], [video][CNDFR26v])
 
 ### 2025
 
@@ -110,6 +110,7 @@ See the [CLIP OS website] for more details.
 
 [CNDFR26i]: https://www.cloudnativedays.fr/programme
 [CNDFR26s]: https://siosm.fedorapeople.org/Attestation%20%c3%a0%20distance%20d%e2%80%99un%20cluster%20Kubernetes%20-%20Cloud%20Native%20Days%20France%202026.pdf
+[CNDFR26v]: https://www.youtube.com/watch?v=h8CQkH5w6qc
 
 [ASG25fbci]: https://cfp.all-systems-go.io/all-systems-go-2025/talk/87TFB7/
 [ASG25fbcv]: https://media.ccc.de/v/all-systems-go-2025-375-leveraging-bootable-oci-images-in-fedora-coreos-and-rhel-coreos
